@@ -24,3 +24,7 @@ hs_err_pid*
 
 *.txt
 !notice.txt
+
+*Reference_Manual/detail.xlsx 
+release-note/*pdf
+*test_
